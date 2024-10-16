@@ -64,6 +64,12 @@
 # Central Kurdish
 - path: cldr/keyboards/windows/ckb-t-k0-windows.xml
 
+# Colemak
+- path: colemak.xml
+  prefix: cm
+  filename: colemak
+  license: colemak-LICENSE.txt
+  
 # Czech
 - path: cldr/keyboards/windows/cs-t-k0-windows.xml
 - path: cldr/keyboards/windows/cs-t-k0-windows-extended.xml
